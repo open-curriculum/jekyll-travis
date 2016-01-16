@@ -12,8 +12,8 @@ destination: ../open-curriculum.github.io/
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-username: michael-collins
-repo: open-curriculum/jekyll-travis
+username: open-curriculum
+repo: jekyll-travis
 branch: source
 
 permalink: pretty
