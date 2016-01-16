@@ -13,7 +13,7 @@ destination: ../open-curriculum.github.io/
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
 username: open-curriculum
-repo: jekyll-travis
+repo: open-curriculum.github.io
 branch: master
 
 permalink: pretty
