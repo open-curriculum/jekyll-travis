@@ -14,7 +14,7 @@ destination: ../open-curriculum.github.io/
 # or "master" otherwise
 username: open-curriculum
 repo: jekyll-travis
-branch: source
+branch: master
 
 permalink: pretty
 
