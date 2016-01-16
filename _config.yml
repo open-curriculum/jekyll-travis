@@ -3,7 +3,7 @@ lsi: false
 pygments: true
 
 relative_source: ../jekyll-travis/
-destination: ../jekyll-travis/
+destination: ../open-curriculum.github.io/
 
 # Settings for deploy rake task
 # Username and repo of Github repo, e.g.
